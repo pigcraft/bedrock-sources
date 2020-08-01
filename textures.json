@@ -1,0 +1,2764 @@
+{
+    "1": [
+        {
+            "path": "textures/blocks/stone.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stone_granite.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stone_granite_smooth.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stone_diorite.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stone_diorite_smooth.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stone_andesite.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stone_andesite_smooth.png",
+            "ext": "png"
+        }
+    ],
+    "2": [
+        {
+            "path": "textures/blocks/grass_side_carried.png",
+            "ext": "png"
+        }
+    ],
+    "3": [
+        {
+            "path": "textures/blocks/dirt.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/coarse_dirt.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/dirt_podzol_side.png",
+            "ext": "png"
+        }
+    ],
+    "4": [
+        {
+            "path": "textures/blocks/cobblestone.png",
+            "ext": "png"
+        }
+    ],
+    "5": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_spruce.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_birch.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_jungle.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_acacia.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_big_oak.png",
+            "ext": "png"
+        }
+    ],
+    "6": [
+        {
+            "path": "textures/blocks/sapling_oak.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sapling_spruce.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sapling_birch.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sapling_jungle.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sapling_acacia.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sapling_roofed_oak.png",
+            "ext": "png"
+        }
+    ],
+    "7": [
+        {
+            "path": "textures/blocks/bedrock.png",
+            "ext": "png"
+        }
+    ],
+    "8": [
+        {
+            "path": "textures/blocks/water_placeholder.png",
+            "ext": "png"
+        }
+    ],
+    "9": [
+        {
+            "path": "textures/blocks/water_placeholder.png",
+            "ext": "png"
+        }
+    ],
+    "10": [
+        {
+            "path": "textures/blocks/lava_placeholder.png",
+            "ext": "png"
+        }
+    ],
+    "11": [
+        {
+            "path": "textures/blocks/lava_placeholder.png",
+            "ext": "png"
+        }
+    ],
+    "12": [
+        {
+            "path": "textures/blocks/sand.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/red_sand.png",
+            "ext": "png"
+        }
+    ],
+    "13": [
+        {
+            "path": "textures/blocks/gravel.png",
+            "ext": "png"
+        }
+    ],
+    "14": [
+        {
+            "path": "textures/blocks/gold_ore.png",
+            "ext": "png"
+        }
+    ],
+    "15": [
+        {
+            "path": "textures/blocks/iron_ore.png",
+            "ext": "png"
+        }
+    ],
+    "16": [
+        {
+            "path": "textures/blocks/coal_ore.png",
+            "ext": "png"
+        }
+    ],
+    "17": [
+        {
+            "path": "textures/blocks/log_oak_top.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/log_spruce.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/log_birch.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/log_jungle.png",
+            "ext": "png"
+        }
+    ],
+    "18": [
+        {
+            "path": "textures/blocks/leaves_oak_carried.tga",
+            "ext": "tga"
+        },
+        {
+            "path": "textures/blocks/leaves_spruce_carried.tga",
+            "ext": "tga"
+        },
+        {
+            "path": "textures/blocks/leaves_birch_carried.tga",
+            "ext": "tga"
+        },
+        {
+            "path": "textures/blocks/leaves_jungle_carried.tga",
+            "ext": "tga"
+        }
+    ],
+    "19": [
+        {
+            "path": "textures/blocks/sponge.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sponge_wet.png",
+            "ext": "png"
+        }
+    ],
+    "20": [
+        {
+            "path": "textures/blocks/glass.png",
+            "ext": "png"
+        }
+    ],
+    "21": [
+        {
+            "path": "textures/blocks/lapis_ore.png",
+            "ext": "png"
+        }
+    ],
+    "22": [
+        {
+            "path": "textures/blocks/lapis_block.png",
+            "ext": "png"
+        }
+    ],
+    "23": [
+        {
+            "path": "textures/blocks/dispenser_front_horizontal.png",
+            "ext": "png"
+        }
+    ],
+    "24": [
+        {
+            "path": "textures/blocks/sandstone_normal.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sandstone_carved.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sandstone_smooth.png",
+            "ext": "png"
+        }
+    ],
+    "25": [
+        {
+            "path": "textures/blocks/noteblock.png",
+            "ext": "png"
+        }
+    ],
+    "26": [
+        {
+            "path": "textures/blocks/bed_head_top.png",
+            "ext": "png"
+        }
+    ],
+    "27": [
+        {
+            "path": "textures/blocks/rail_golden.png",
+            "ext": "png"
+        }
+    ],
+    "28": [
+        {
+            "path": "textures/blocks/rail_detector.png",
+            "ext": "png"
+        }
+    ],
+    "29": [
+        {
+            "path": "textures/blocks/piston_top_sticky.png",
+            "ext": "png"
+        }
+    ],
+    "30": [
+        {
+            "path": "textures/blocks/web.png",
+            "ext": "png"
+        }
+    ],
+    "31": [
+        {
+            "path": "textures/blocks/deadbush.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/tallgrass_carried.tga",
+            "ext": "tga"
+        },
+        {
+            "path": "textures/blocks/fern_carried.tga",
+            "ext": "tga"
+        }
+    ],
+    "32": [
+        {
+            "path": "textures/blocks/deadbush.png",
+            "ext": "png"
+        }
+    ],
+    "33": [
+        {
+            "path": "textures/blocks/piston_top_normal.png",
+            "ext": "png"
+        }
+    ],
+    "34": [
+        {
+            "path": "textures/blocks/piston_top_normal.png",
+            "ext": "png"
+        }
+    ],
+    "35": [
+        {
+            "path": "textures/blocks/wool_colored_white.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_magenta.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_light_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_yellow.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_gray.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_silver.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_cyan.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_green.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_black.png",
+            "ext": "png"
+        }
+    ],
+    "37": [
+        {
+            "path": "textures/blocks/Dandelion.png",
+            "ext": "png"
+        }
+    ],
+    "38": [
+        {
+            "path": "textures/blocks/flower_rose.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_blue_orchid.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_allium.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_houstonia.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_tulip_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_tulip_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_tulip_white.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_tulip_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_oxeye_daisy.png",
+            "ext": "png"
+        }
+    ],
+    "39": [
+        {
+            "path": "textures/blocks/mushroom_brown.png",
+            "ext": "png"
+        }
+    ],
+    "40": [
+        {
+            "path": "textures/blocks/mushroom_red.png",
+            "ext": "png"
+        }
+    ],
+    "41": [
+        {
+            "path": "textures/blocks/gold_block.png",
+            "ext": "png"
+        }
+    ],
+    "42": [
+        {
+            "path": "textures/blocks/iron_block.png",
+            "ext": "png"
+        }
+    ],
+    "43": [
+        {
+            "path": "textures/blocks/stone_slab_side.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sandstone_bottom.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/cobblestone.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/brick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/nether_brick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/quartz_block_top.png",
+            "ext": "png"
+        }
+    ],
+    "44": [
+        {
+            "path": "textures/blocks/stone_slab_top.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sandstone_top.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/cobblestone.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/brick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/nether_brick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/quartz_block_top.png",
+            "ext": "png"
+        }
+    ],
+    "45": [
+        {
+            "path": "textures/blocks/brick.png",
+            "ext": "png"
+        }
+    ],
+    "46": [
+        {
+            "path": "textures/blocks/tnt_side.png",
+            "ext": "png"
+        }
+    ],
+    "47": [
+        {
+            "path": "textures/blocks/bookshelf.png",
+            "ext": "png"
+        }
+    ],
+    "48": [
+        {
+            "path": "textures/blocks/cobblestone_mossy.png",
+            "ext": "png"
+        }
+    ],
+    "49": [
+        {
+            "path": "textures/blocks/obsidian.png",
+            "ext": "png"
+        }
+    ],
+    "50": [
+        {
+            "path": "textures/blocks/torch_on.png",
+            "ext": "png"
+        }
+    ],
+    "51": [
+        {
+            "path": "textures/blocks/fire_0_placeholder.png",
+            "ext": "png"
+        }
+    ],
+    "52": [
+        {
+            "path": "textures/blocks/mob_spawner.png",
+            "ext": "png"
+        }
+    ],
+    "53": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        }
+    ],
+    "54": [
+        {
+            "path": "textures/blocks/chest_front.png",
+            "ext": "png"
+        }
+    ],
+    "55": [
+        {
+            "path": "textures/blocks/redstone_dust_line.png",
+            "ext": "png"
+        }
+    ],
+    "56": [
+        {
+            "path": "textures/blocks/diamond_ore.png",
+            "ext": "png"
+        }
+    ],
+    "57": [
+        {
+            "path": "textures/blocks/diamond_block.png",
+            "ext": "png"
+        }
+    ],
+    "58": [
+        {
+            "path": "textures/blocks/crafting_table_top.png",
+            "ext": "png"
+        }
+    ],
+    "59": [
+        {
+            "path": "textures/blocks/wheat_stage_7.png",
+            "ext": "png"
+        }
+    ],
+    "60": [
+        {
+            "path": "textures/blocks/farmland_dry.png",
+            "ext": "png"
+        }
+    ],
+    "61": [
+        {
+            "path": "textures/blocks/furnace_front_off.png",
+            "ext": "png"
+        }
+    ],
+    "62": [
+        {
+            "path": "textures/blocks/furnace_front_on.png",
+            "ext": "png"
+        }
+    ],
+    "63": [
+        {
+            "path": "textures/items/sign.png",
+            "ext": "png"
+        }
+    ],
+    "64": [
+        {
+            "path": "textures/blocks/door_wood_upper.png",
+            "ext": "png"
+        }
+    ],
+    "65": [
+        {
+            "path": "textures/blocks/ladder.png",
+            "ext": "png"
+        }
+    ],
+    "66": [
+        {
+            "path": "textures/blocks/rail_normal.png",
+            "ext": "png"
+        }
+    ],
+    "67": [
+        {
+            "path": "textures/blocks/cobblestone.png",
+            "ext": "png"
+        }
+    ],
+    "68": [
+        {
+            "path": "textures/items/sign.png",
+            "ext": "png"
+        }
+    ],
+    "69": [
+        {
+            "path": "textures/blocks/lever.png",
+            "ext": "png"
+        }
+    ],
+    "70": [
+        {
+            "path": "textures/blocks/stone.png",
+            "ext": "png"
+        }
+    ],
+    "71": [
+        {
+            "path": "textures/blocks/door_iron_upper.png",
+            "ext": "png"
+        }
+    ],
+    "72": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        }
+    ],
+    "73": [
+        {
+            "path": "textures/blocks/redstone_ore.png",
+            "ext": "png"
+        }
+    ],
+    "74": [
+        {
+            "path": "textures/blocks/redstone_ore.png",
+            "ext": "png"
+        }
+    ],
+    "75": [
+        {
+            "path": "textures/blocks/redstone_torch_off.png",
+            "ext": "png"
+        }
+    ],
+    "76": [
+        {
+            "path": "textures/blocks/redstone_torch_on.png",
+            "ext": "png"
+        }
+    ],
+    "77": [
+        {
+            "path": "textures/blocks/stone.png",
+            "ext": "png"
+        }
+    ],
+    "78": [
+        {
+            "path": "textures/blocks/snow.png",
+            "ext": "png"
+        }
+    ],
+    "79": [
+        {
+            "path": "textures/blocks/ice.png",
+            "ext": "png"
+        }
+    ],
+    "80": [
+        {
+            "path": "textures/blocks/snow.png",
+            "ext": "png"
+        }
+    ],
+    "81": [
+        {
+            "path": "textures/blocks/cactus_side.tga",
+            "ext": "tga"
+        }
+    ],
+    "82": [
+        {
+            "path": "textures/blocks/clay.png",
+            "ext": "png"
+        }
+    ],
+    "83": [
+        {
+            "path": "textures/blocks/reeds.tga",
+            "ext": "tga"
+        }
+    ],
+    "84": [
+        {
+            "path": "textures/blocks/jukebox_top.png",
+            "ext": "png"
+        }
+    ],
+    "85": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        }
+    ],
+    "86": [
+        {
+            "path": "textures/blocks/pumpkin_face_off.png",
+            "ext": "png"
+        }
+    ],
+    "87": [
+        {
+            "path": "textures/blocks/netherrack.png",
+            "ext": "png"
+        }
+    ],
+    "88": [
+        {
+            "path": "textures/blocks/soul_sand.png",
+            "ext": "png"
+        }
+    ],
+    "89": [
+        {
+            "path": "textures/blocks/glowstone.png",
+            "ext": "png"
+        }
+    ],
+    "90": [
+        {
+            "path": "textures/blocks/portal_placeholder.png",
+            "ext": "png"
+        }
+    ],
+    "91": [
+        {
+            "path": "textures/blocks/pumpkin_face_on.png",
+            "ext": "png"
+        }
+    ],
+    "92": [
+        {
+            "path": "textures/blocks/cake_top.png",
+            "ext": "png"
+        }
+    ],
+    "93": [
+        {
+            "path": "textures/blocks/repeater_off.png",
+            "ext": "png"
+        }
+    ],
+    "94": [
+        {
+            "path": "textures/blocks/repeater_on.png",
+            "ext": "png"
+        }
+    ],
+    "95": [
+        {
+            "path": "textures/blocks/glass_white.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_magenta.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_light_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_yellow.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_gray.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_silver.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_cyan.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_green.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_black.png",
+            "ext": "png"
+        }
+    ],
+    "96": [
+        {
+            "path": "textures/blocks/trapdoor.png",
+            "ext": "png"
+        }
+    ],
+    "97": [
+        {
+            "path": "textures/blocks/stone.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/Cobblestone .png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick_mossy.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick_cracked.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick_carved.png",
+            "ext": "png"
+        }
+    ],
+    "98": [
+        {
+            "path": "textures/blocks/stonebrick.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick_mossy.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick_cracked.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/stonebrick_carved.png",
+            "ext": "png"
+        }
+    ],
+    "99": [
+        {
+            "path": "textures/blocks/mushroom_block_skin_brown.png",
+            "ext": "png"
+        }
+    ],
+    "100": [
+        {
+            "path": "textures/blocks/mushroom_block_skin_red.png",
+            "ext": "png"
+        }
+    ],
+    "101": [
+        {
+            "path": "textures/blocks/iron_bars.png",
+            "ext": "png"
+        }
+    ],
+    "102": [
+        {
+            "path": "textures/blocks/glass_pane_top.png",
+            "ext": "png"
+        }
+    ],
+    "104": [
+        {
+            "path": "textures/blocks/pumpkin_stem_disconnected.png",
+            "ext": "png"
+        }
+    ],
+    "106": [
+        {
+            "path": "textures/blocks/vine_carried.png",
+            "ext": "png"
+        }
+    ],
+    "107": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        }
+    ],
+    "108": [
+        {
+            "path": "textures/blocks/brick.png",
+            "ext": "png"
+        }
+    ],
+    "109": [
+        {
+            "path": "textures/blocks/stonebrick.png",
+            "ext": "png"
+        }
+    ],
+    "110": [
+        {
+            "path": "textures/blocks/mycelium_side.png",
+            "ext": "png"
+        }
+    ],
+    "111": [
+        {
+            "path": "textures/blocks/carried_waterlily.png",
+            "ext": "png"
+        }
+    ],
+    "113": [
+        {
+            "path": "textures/blocks/nether_brick.png",
+            "ext": "png"
+        }
+    ],
+    "114": [
+        {
+            "path": "textures/blocks/nether_brick.png",
+            "ext": "png"
+        }
+    ],
+    "116": [
+        {
+            "path": "textures/blocks/enchanting_table_side.png",
+            "ext": "png"
+        }
+    ],
+    "119": [
+        {
+            "path": "textures/blocks/end_portal.png",
+            "ext": "png"
+        }
+    ],
+    "120": [
+        {
+            "path": "textures/blocks/end_portal.png",
+            "ext": "png"
+        }
+    ],
+    "121": [
+        {
+            "path": "textures/blocks/end_stone.png",
+            "ext": "png"
+        }
+    ],
+    "122": [
+        {
+            "path": "textures/blocks/dragon_egg.png",
+            "ext": "png"
+        }
+    ],
+    "123": [
+        {
+            "path": "textures/blocks/redstone_lamp_off.png",
+            "ext": "png"
+        }
+    ],
+    "128": [
+        {
+            "path": "textures/blocks/sandstone_bottom.png",
+            "ext": "png"
+        }
+    ],
+    "129": [
+        {
+            "path": "textures/blocks/emerald_ore.png",
+            "ext": "png"
+        }
+    ],
+    "130": [
+        {
+            "path": "textures/blocks/ender_chest_front.png",
+            "ext": "png"
+        }
+    ],
+    "131": [
+        {
+            "path": "textures/blocks/trip_wire_source.png",
+            "ext": "png"
+        }
+    ],
+    "132": [
+        {
+            "path": "textures/blocks/trip_wire.png",
+            "ext": "png"
+        }
+    ],
+    "133": [
+        {
+            "path": "textures/blocks/emerald_block.png",
+            "ext": "png"
+        }
+    ],
+    "134": [
+        {
+            "path": "textures/blocks/planks_spruce.png",
+            "ext": "png"
+        }
+    ],
+    "135": [
+        {
+            "path": "textures/blocks/planks_birch.png",
+            "ext": "png"
+        }
+    ],
+    "136": [
+        {
+            "path": "textures/blocks/planks_jungle.png",
+            "ext": "png"
+        }
+    ],
+    "137": [
+        {
+            "path": "textures/blocks/command_block.png",
+            "ext": "png"
+        }
+    ],
+    "138": [
+        {
+            "path": "textures/blocks/beacon.png",
+            "ext": "png"
+        }
+    ],
+    "139": [
+        {
+            "path": "textures/blocks/cobblestone.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/cobblestone_mossy.png",
+            "ext": "png"
+        }
+    ],
+    "142": [
+        {
+            "path": "textures/blocks/potatoes_stage_3.png",
+            "ext": "png"
+        }
+    ],
+    "143": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        }
+    ],
+    "145": [
+        {
+            "path": "textures/blocks/anvil_top_damaged_0.png",
+            "ext": "png"
+        }
+    ],
+    "146": [
+        {
+            "path": "textures/blocks/trapped_chest_front.png",
+            "ext": "png"
+        }
+    ],
+    "147": [
+        {
+            "path": "textures/blocks/gold_block.png",
+            "ext": "png"
+        }
+    ],
+    "148": [
+        {
+            "path": "textures/blocks/iron_block.png",
+            "ext": "png"
+        }
+    ],
+    "178": [
+        {
+            "path": "textures/blocks/daylight_detector_inverted_top.png",
+            "ext": "png"
+        }
+    ],
+    "152": [
+        {
+            "path": "textures/blocks/redstone_block.png",
+            "ext": "png"
+        }
+    ],
+    "153": [
+        {
+            "path": "textures/blocks/quartz_ore.png",
+            "ext": "png"
+        }
+    ],
+    "154": [
+        {
+            "path": "textures/blocks/hopper_top.png",
+            "ext": "png"
+        }
+    ],
+    "155": [
+        {
+            "path": "textures/blocks/quartz_block_top.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/quartz_block_lines.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/quartz_block_chiseled_top.png",
+            "ext": "png"
+        }
+    ],
+    "156": [
+        {
+            "path": "textures/blocks/quartz_block_top.png",
+            "ext": "png"
+        }
+    ],
+    "158": [
+        {
+            "path": "textures/blocks/planks_oak.png",
+            "ext": "png"
+        }
+    ],
+    "159": [
+        {
+            "path": "textures/blocks/hardened_clay_stained_white.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_magenta.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_light_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_yellow.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_gray.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/concrete_gray.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_green.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/hardened_clay_stained_black.png",
+            "ext": "png"
+        }
+    ],
+    "160": [
+        {
+            "path": "textures/blocks/glass_pane_top_white.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_magenta.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_light_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_yellow.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_gray.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_cyan.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_pane_top_green.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/glass_black.png",
+            "ext": "png"
+        }
+    ],
+    "161": [
+        {
+            "path": "textures/blocks/leaves_acacia_opaque.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/leaves_big_oak_opaque.png",
+            "ext": "png"
+        }
+    ],
+    "162": [
+        {
+            "path": "textures/blocks/log_acacia.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/log_acacia.png",
+            "ext": "png"
+        }
+    ],
+    "163": [
+        {
+            "path": "textures/blocks/planks_acacia.png",
+            "ext": "png"
+        }
+    ],
+    "164": [
+        {
+            "path": "textures/blocks/planks_big_oak.png",
+            "ext": "png"
+        }
+    ],
+    "165": [
+        {
+            "path": "textures/blocks/slime.png",
+            "ext": "png"
+        }
+    ],
+    "330": [
+        {
+            "path": "textures/blocks/door_iron_upper.png",
+            "ext": "png"
+        }
+    ],
+    "168": [
+        {
+            "path": "textures/blocks/prismarine_dark.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/prismarine_dark.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/prismarine_bricks.png",
+            "ext": "png"
+        }
+    ],
+    "169": [
+        {
+            "path": "textures/blocks/sea_lantern.png",
+            "ext": "png"
+        }
+    ],
+    "170": [
+        {
+            "path": "textures/blocks/hay_block_side.png",
+            "ext": "png"
+        }
+    ],
+    "171": [
+        {
+            "path": "textures/blocks/wool_colored_white.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_magenta.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_light_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_yellow.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_gray.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_silver.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_cyan.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_green.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/wool_colored_black.png",
+            "ext": "png"
+        }
+    ],
+    "172": [
+        {
+            "path": "textures/blocks/hardened_clay.png",
+            "ext": "png"
+        }
+    ],
+    "173": [
+        {
+            "path": "textures/blocks/coal_block.png",
+            "ext": "png"
+        }
+    ],
+    "174": [
+        {
+            "path": "textures/blocks/ice_packed.png",
+            "ext": "png"
+        }
+    ],
+    "175": [
+        {
+            "path": "textures/blocks/double_plant_sunflower_front.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_cornflower.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/double_plant_grass_carried.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/tallgrass.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/sweet_berry_bush_stage3.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/flower_allium.png",
+            "ext": "png"
+        }
+    ],
+    "176": [
+        {
+            "path": "textures/blocks/bone_block_side.png",
+            "ext": "png"
+        }
+    ],
+    "177": [
+        {
+            "path": "textures/blocks/bone_block_side.png",
+            "ext": "png"
+        }
+    ],
+    "179": [
+        {
+            "path": "textures/blocks/red_sandstone_bottom.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/red_sandstone_carved.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/red_sandstone_smooth.png",
+            "ext": "png"
+        }
+    ],
+    "180": [
+        {
+            "path": "textures/blocks/red_sandstone_carved.png",
+            "ext": "png"
+        }
+    ],
+    "182": [
+        {
+            "path": "textures/blocks/red_sandstone_smooth.png",
+            "ext": "png"
+        }
+    ],
+    "183": [
+        {
+            "path": "textures/blocks/door_spruce_lower.png",
+            "ext": "png"
+        }
+    ],
+    "184": [
+        {
+            "path": "textures/blocks/door_birch_upper.png",
+            "ext": "png"
+        }
+    ],
+    "185": [
+        {
+            "path": "textures/blocks/door_acacia_upper.png",
+            "ext": "png"
+        }
+    ],
+    "186": [
+        {
+            "path": "textures/blocks/door_dark_oak_lower.png",
+            "ext": "png"
+        }
+    ],
+    "187": [
+        {
+            "path": "textures/blocks/door_spruce_lower.png",
+            "ext": "png"
+        }
+    ],
+    "188": [
+        {
+            "path": "textures/blocks/chain_command_block_conditional_mipmap.png",
+            "ext": "png"
+        }
+    ],
+    "189": [
+        {
+            "path": "textures/blocks/repeating_command_block_back_mipmap.png",
+            "ext": "png"
+        }
+    ],
+    "194": [
+        {
+            "path": "textures/blocks/door_birch_upper.png",
+            "ext": "png"
+        }
+    ],
+    "198": [
+        {
+            "path": "textures/blocks/end_rod.png",
+            "ext": "png"
+        }
+    ],
+    "200": [
+        {
+            "path": "textures/blocks/chorus_flower.png",
+            "ext": "png"
+        }
+    ],
+    "201": [
+        {
+            "path": "textures/blocks/purpur_block.png",
+            "ext": "png"
+        }
+    ],
+    "203": [
+        {
+            "path": "textures/blocks/purpur_block.png",
+            "ext": "png"
+        }
+    ],
+    "205": [
+        {
+            "path": "textures/items/shulker_shell.png",
+            "ext": "png"
+        }
+    ],
+    "206": [
+        {
+            "path": "textures/blocks/end_bricks.png",
+            "ext": "png"
+        }
+    ],
+    "208": [
+        {
+            "path": "textures/blocks/grass_path_side.png",
+            "ext": "png"
+        }
+    ],
+    "209": [
+        {
+            "path": "textures/blocks/end_gateway.png",
+            "ext": "png"
+        }
+    ],
+    "256": [
+        {
+            "path": "textures/items/iron_shovel.png",
+            "ext": "png"
+        }
+    ],
+    "257": [
+        {
+            "path": "textures/items/iron_pickaxe.png",
+            "ext": "png"
+        }
+    ],
+    "258": [
+        {
+            "path": "textures/items/iron_axe.png",
+            "ext": "png"
+        }
+    ],
+    "259": [
+        {
+            "path": "textures/items/flint_and_steel.png",
+            "ext": "png"
+        }
+    ],
+    "260": [
+        {
+            "path": "textures/items/apple.png",
+            "ext": "png"
+        }
+    ],
+    "261": [
+        {
+            "path": "textures/items/bow_standby.png",
+            "ext": "png"
+        }
+    ],
+    "262": [
+        {
+            "path": "textures/items/arrow.png",
+            "ext": "png"
+        }
+    ],
+    "263": [
+        {
+            "path": "textures/items/coal.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/charcoal.png",
+            "ext": "png"
+        }
+    ],
+    "264": [
+        {
+            "path": "textures/items/diamond.png",
+            "ext": "png"
+        }
+    ],
+    "265": [
+        {
+            "path": "textures/items/iron_ingot.png",
+            "ext": "png"
+        }
+    ],
+    "266": [
+        {
+            "path": "textures/items/gold_ingot.png",
+            "ext": "png"
+        }
+    ],
+    "267": [
+        {
+            "path": "textures/items/iron_sword.png",
+            "ext": "png"
+        }
+    ],
+    "268": [
+        {
+            "path": "textures/items/wood_sword.png",
+            "ext": "png"
+        }
+    ],
+    "269": [
+        {
+            "path": "textures/items/wood_shovel.png",
+            "ext": "png"
+        }
+    ],
+    "270": [
+        {
+            "path": "textures/items/wood_pickaxe.png",
+            "ext": "png"
+        }
+    ],
+    "271": [
+        {
+            "path": "textures/items/wood_axe.png",
+            "ext": "png"
+        }
+    ],
+    "272": [
+        {
+            "path": "textures/items/stone_sword.png",
+            "ext": "png"
+        }
+    ],
+    "273": [
+        {
+            "path": "textures/items/stone_shovel.png",
+            "ext": "png"
+        }
+    ],
+    "274": [
+        {
+            "path": "textures/items/stone_pickaxe.png",
+            "ext": "png"
+        }
+    ],
+    "275": [
+        {
+            "path": "textures/items/stone_axe.png",
+            "ext": "png"
+        }
+    ],
+    "276": [
+        {
+            "path": "textures/items/diamond_sword.png",
+            "ext": "png"
+        }
+    ],
+    "277": [
+        {
+            "path": "textures/items/diamond_shovel.png",
+            "ext": "png"
+        }
+    ],
+    "278": [
+        {
+            "path": "textures/items/diamond_pickaxe.png",
+            "ext": "png"
+        }
+    ],
+    "279": [
+        {
+            "path": "textures/items/diamond_axe.png",
+            "ext": "png"
+        }
+    ],
+    "280": [
+        {
+            "path": "textures/items/stick.png",
+            "ext": "png"
+        }
+    ],
+    "281": [
+        {
+            "path": "textures/items/bowl.png",
+            "ext": "png"
+        }
+    ],
+    "282": [
+        {
+            "path": "textures/items/mushroom_stew.png",
+            "ext": "png"
+        }
+    ],
+    "283": [
+        {
+            "path": "textures/items/gold_sword.png",
+            "ext": "png"
+        }
+    ],
+    "284": [
+        {
+            "path": "textures/items/gold_shovel.png",
+            "ext": "png"
+        }
+    ],
+    "285": [
+        {
+            "path": "textures/items/gold_pickaxe.png",
+            "ext": "png"
+        }
+    ],
+    "286": [
+        {
+            "path": "textures/items/gold_axe.png",
+            "ext": "png"
+        }
+    ],
+    "287": [
+        {
+            "path": "textures/items/string.png",
+            "ext": "png"
+        }
+    ],
+    "288": [
+        {
+            "path": "textures/items/feather.png",
+            "ext": "png"
+        }
+    ],
+    "289": [
+        {
+            "path": "textures/items/gunpowder.png",
+            "ext": "png"
+        }
+    ],
+    "290": [
+        {
+            "path": "textures/items/wood_hoe.png",
+            "ext": "png"
+        }
+    ],
+    "291": [
+        {
+            "path": "textures/items/stone_hoe.png",
+            "ext": "png"
+        }
+    ],
+    "292": [
+        {
+            "path": "textures/items/iron_hoe.png",
+            "ext": "png"
+        }
+    ],
+    "293": [
+        {
+            "path": "textures/items/diamond_hoe.png",
+            "ext": "png"
+        }
+    ],
+    "294": [
+        {
+            "path": "textures/items/gold_hoe.png",
+            "ext": "png"
+        }
+    ],
+    "295": [
+        {
+            "path": "textures/items/seeds_wheat.png",
+            "ext": "png"
+        }
+    ],
+    "296": [
+        {
+            "path": "textures/items/wheat.png",
+            "ext": "png"
+        }
+    ],
+    "297": [
+        {
+            "path": "textures/items/bread.png",
+            "ext": "png"
+        }
+    ],
+    "298": [
+        {
+            "path": "textures/items/leather_helmet.tga",
+            "ext": "tga"
+        }
+    ],
+    "299": [
+        {
+            "path": "textures/items/leather_chestplate.png",
+            "ext": "png"
+        }
+    ],
+    "300": [
+        {
+            "path": "textures/items/leather_leggings.tga",
+            "ext": "tga"
+        }
+    ],
+    "301": [
+        {
+            "path": "textures/items/leather_boots.tga",
+            "ext": "tga"
+        }
+    ],
+    "302": [
+        {
+            "path": "textures/items/chainmail_helmet.png",
+            "ext": "png"
+        }
+    ],
+    "303": [
+        {
+            "path": "textures/items/chainmail_chestplate.png",
+            "ext": "png"
+        }
+    ],
+    "304": [
+        {
+            "path": "textures/items/chainmail_leggings.png",
+            "ext": "png"
+        }
+    ],
+    "305": [
+        {
+            "path": "textures/items/chainmail_boots.png",
+            "ext": "png"
+        }
+    ],
+    "306": [
+        {
+            "path": "textures/items/iron_helmet.png",
+            "ext": "png"
+        }
+    ],
+    "307": [
+        {
+            "path": "textures/items/iron_chestplate.png",
+            "ext": "png"
+        }
+    ],
+    "308": [
+        {
+            "path": "textures/items/iron_leggings.png",
+            "ext": "png"
+        }
+    ],
+    "309": [
+        {
+            "path": "textures/items/iron_boots.png",
+            "ext": "png"
+        }
+    ],
+    "310": [
+        {
+            "path": "textures/items/diamond_helmet.png",
+            "ext": "png"
+        }
+    ],
+    "311": [
+        {
+            "path": "textures/items/diamond_chestplate.png",
+            "ext": "png"
+        }
+    ],
+    "312": [
+        {
+            "path": "textures/items/diamond_leggings.png",
+            "ext": "png"
+        }
+    ],
+    "313": [
+        {
+            "path": "textures/items/diamond_boots.png",
+            "ext": "png"
+        }
+    ],
+    "314": [
+        {
+            "path": "textures/items/gold_helmet.png",
+            "ext": "png"
+        }
+    ],
+    "315": [
+        {
+            "path": "textures/items/gold_chestplate.png",
+            "ext": "png"
+        }
+    ],
+    "316": [
+        {
+            "path": "textures/items/gold_leggings.png",
+            "ext": "png"
+        }
+    ],
+    "317": [
+        {
+            "path": "textures/items/gold_boots.png",
+            "ext": "png"
+        }
+    ],
+    "318": [
+        {
+            "path": "textures/items/flint.png",
+            "ext": "png"
+        }
+    ],
+    "319": [
+        {
+            "path": "textures/items/porkchop_raw.png",
+            "ext": "png"
+        }
+    ],
+    "320": [
+        {
+            "path": "textures/items/porkchop_cooked.png",
+            "ext": "png"
+        }
+    ],
+    "321": [
+        {
+            "path": "textures/items/painting.png",
+            "ext": "png"
+        }
+    ],
+    "322": [
+        {
+            "path": "textures/items/apple_golden.png",
+            "ext": "png"
+        }
+    ],
+    "323": [
+        {
+            "path": "textures/items/sign.png",
+            "ext": "png"
+        }
+    ],
+    "324": [
+        {
+            "path": "textures/items/door_wood.png",
+            "ext": "png"
+        }
+    ],
+    "325": [
+        {
+            "path": "textures/items/bucket_empty.png",
+            "ext": "png"
+        }
+    ],
+    "328": [
+        {
+            "path": "textures/items/minecart_normal.png",
+            "ext": "png"
+        }
+    ],
+    "329": [
+        {
+            "path": "textures/items/saddle.png",
+            "ext": "png"
+        }
+    ],
+    "331": [
+        {
+            "path": "textures/items/redstone_dust.png",
+            "ext": "png"
+        }
+    ],
+    "332": [
+        {
+            "path": "textures/items/snowball.png",
+            "ext": "png"
+        }
+    ],
+    "333": [
+        {
+            "path": "textures/items/boat.png",
+            "ext": "png"
+        }
+    ],
+    "334": [
+        {
+            "path": "textures/items/leather.png",
+            "ext": "png"
+        }
+    ],
+    "337": [
+        {
+            "path": "textures/items/clay_ball.png",
+            "ext": "png"
+        }
+    ],
+    "338": [
+        {
+            "path": "textures/items/reeds.png",
+            "ext": "png"
+        }
+    ],
+    "339": [
+        {
+            "path": "textures/items/paper.png",
+            "ext": "png"
+        }
+    ],
+    "340": [
+        {
+            "path": "textures/items/book_normal.png",
+            "ext": "png"
+        }
+    ],
+    "341": [
+        {
+            "path": "textures/items/slimeball.png",
+            "ext": "png"
+        }
+    ],
+    "342": [
+        {
+            "path": "textures/items/minecart_chest.png",
+            "ext": "png"
+        }
+    ],
+    "344": [
+        {
+            "path": "textures/items/egg.png",
+            "ext": "png"
+        }
+    ],
+    "345": [
+        {
+            "path": "textures/items/compass_item.png",
+            "ext": "png"
+        }
+    ],
+    "346": [
+        {
+            "path": "textures/items/fishing_rod_cast.png",
+            "ext": "png"
+        }
+    ],
+    "347": [
+        {
+            "path": "textures/items/clock_item.png",
+            "ext": "png"
+        }
+    ],
+    "348": [
+        {
+            "path": "textures/items/glowstone_dust.png",
+            "ext": "png"
+        }
+    ],
+    "349": [
+        {
+            "path": "textures/items/fish_raw.png",
+            "ext": "png"
+        }
+    ],
+    "350": [
+        {
+            "path": "textures/items/fish_cooked.png",
+            "ext": "png"
+        }
+    ],
+    "351": [
+        {
+            "path": "textures/items/dye_powder_black.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_green.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_brown.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_purple.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_cyan.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_silver.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_pink.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_lime.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_yellow.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_light_blue.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_red.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_orange.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/items/dye_powder_white.png",
+            "ext": "png"
+        }
+    ],
+    "352": [
+        {
+            "path": "textures/items/bone.png",
+            "ext": "png"
+        }
+    ],
+    "353": [
+        {
+            "path": "textures/items/sugar.png",
+            "ext": "png"
+        }
+    ],
+    "354": [
+        {
+            "path": "textures/items/cake.png",
+            "ext": "png"
+        }
+    ],
+    "355": [
+        {
+            "path": "textures/items/bed_red.png",
+            "ext": "png"
+        }
+    ],
+    "356": [
+        {
+            "path": "textures/items/repeater.png",
+            "ext": "png"
+        }
+    ],
+    "357": [
+        {
+            "path": "textures/items/cookie.png",
+            "ext": "png"
+        }
+    ],
+    "358": [
+        {
+            "path": "textures/items/map_nautilus.png",
+            "ext": "png"
+        }
+    ],
+    "359": [
+        {
+            "path": "textures/items/shears.png",
+            "ext": "png"
+        }
+    ],
+    "360": [
+        {
+            "path": "textures/items/melon.png",
+            "ext": "png"
+        }
+    ],
+    "362": [
+        {
+            "path": "textures/items/seeds_melon.png",
+            "ext": "png"
+        }
+    ],
+    "363": [
+        {
+            "path": "textures/items/beef_raw.png",
+            "ext": "png"
+        }
+    ],
+    "364": [
+        {
+            "path": "textures/items/beef_cooked.png",
+            "ext": "png"
+        }
+    ],
+    "365": [
+        {
+            "path": "textures/items/chicken_raw.png",
+            "ext": "png"
+        }
+    ],
+    "366": [
+        {
+            "path": "textures/items/chicken_cooked.png",
+            "ext": "png"
+        }
+    ],
+    "367": [
+        {
+            "path": "textures/items/rotten_flesh.png",
+            "ext": "png"
+        }
+    ],
+    "368": [
+        {
+            "path": "textures/items/ender_pearl.png",
+            "ext": "png"
+        }
+    ],
+    "369": [
+        {
+            "path": "textures/items/blaze_rod.png",
+            "ext": "png"
+        }
+    ],
+    "370": [
+        {
+            "path": "textures/items/ghast_tear.png",
+            "ext": "png"
+        }
+    ],
+    "371": [
+        {
+            "path": "textures/items/gold_nugget.png",
+            "ext": "png"
+        }
+    ],
+    "372": [
+        {
+            "path": "textures/items/nether_wart.png",
+            "ext": "png"
+        }
+    ],
+    "373": [
+        {
+            "path": "textures/items/potion_bottle_drinkable.png",
+            "ext": "png"
+        }
+    ],
+    "374": [
+        {
+            "path": "textures/items/potion_bottle_empty.png",
+            "ext": "png"
+        }
+    ],
+    "375": [
+        {
+            "path": "textures/items/spider_eye.png",
+            "ext": "png"
+        }
+    ],
+    "376": [
+        {
+            "path": "textures/items/spider_eye_fermented.png",
+            "ext": "png"
+        }
+    ],
+    "377": [
+        {
+            "path": "textures/items/blaze_powder.png",
+            "ext": "png"
+        }
+    ],
+    "378": [
+        {
+            "path": "textures/items/magma_cream.png",
+            "ext": "png"
+        }
+    ],
+    "379": [
+        {
+            "path": "textures/blocks/brewing_stand.png",
+            "ext": "png"
+        }
+    ],
+    "380": [
+        {
+            "path": "textures/blocks/cauldron_side.png",
+            "ext": "png"
+        }
+    ],
+    "381": [
+        {
+            "path": "textures/items/ender_eye.png",
+            "ext": "png"
+        }
+    ],
+    "382": [
+        {
+            "path": "textures/items/melon_speckled.png",
+            "ext": "png"
+        }
+    ],
+    "384": [
+        {
+            "path": "textures/items/experience_bottle.png",
+            "ext": "png"
+        }
+    ],
+    "385": [
+        {
+            "path": "textures/items/fireball.png",
+            "ext": "png"
+        }
+    ],
+    "388": [
+        {
+            "path": "textures/items/emerald.png",
+            "ext": "png"
+        }
+    ],
+    "389": [
+        {
+            "path": "textures/items/item_frame.png",
+            "ext": "png"
+        }
+    ],
+    "390": [
+        {
+            "path": "textures/items/flower_pot.png",
+            "ext": "png"
+        }
+    ],
+    "391": [
+        {
+            "path": "textures/items/carrot.png",
+            "ext": "png"
+        }
+    ],
+    "392": [
+        {
+            "path": "textures/items/potato.png",
+            "ext": "png"
+        }
+    ],
+    "393": [
+        {
+            "path": "textures/items/potato_baked.png",
+            "ext": "png"
+        }
+    ],
+    "394": [
+        {
+            "path": "textures/items/potato_poisonous.png",
+            "ext": "png"
+        }
+    ],
+    "395": [
+        {
+            "path": "textures/items/map_empty.png",
+            "ext": "png"
+        }
+    ],
+    "396": [
+        {
+            "path": "textures/items/carrot_golden.png",
+            "ext": "png"
+        }
+    ],
+    "397": [
+        {
+            "path": "textures/items/bone.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/observer_front.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/observer_front.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/observer_front.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/observer_front.png",
+            "ext": "png"
+        },
+        {
+            "path": "textures/blocks/observer_front.png",
+            "ext": "png"
+        }
+    ],
+    "398": [
+        {
+            "path": "textures/items/carrot_on_a_stick.png",
+            "ext": "png"
+        }
+    ],
+    "399": [
+        {
+            "path": "textures/items/nether_star.png",
+            "ext": "png"
+        }
+    ],
+    "400": [
+        {
+            "path": "textures/items/pumpkin_pie.png",
+            "ext": "png"
+        }
+    ],
+    "403": [
+        {
+            "path": "textures/items/book_writable.png",
+            "ext": "png"
+        }
+    ],
+    "404": [
+        {
+            "path": "textures/items/comparator.png",
+            "ext": "png"
+        }
+    ],
+    "406": [
+        {
+            "path": "textures/items/quartz.png",
+            "ext": "png"
+        }
+    ],
+    "407": [
+        {
+            "path": "textures/items/minecart_tnt.png",
+            "ext": "png"
+        }
+    ],
+    "408": [
+        {
+            "path": "textures/items/minecart_hopper.png",
+            "ext": "png"
+        }
+    ],
+    "409": [
+        {
+            "path": "textures/items/prismarine_shard.png",
+            "ext": "png"
+        }
+    ],
+    "410": [
+        {
+            "path": "textures/items/prismarine_crystals.png",
+            "ext": "png"
+        }
+    ],
+    "411": [
+        {
+            "path": "textures/items/rabbit_raw.png",
+            "ext": "png"
+        }
+    ],
+    "412": [
+        {
+            "path": "textures/items/rabbit_cooked.png",
+            "ext": "png"
+        }
+    ],
+    "413": [
+        {
+            "path": "textures/items/rabbit_stew.png",
+            "ext": "png"
+        }
+    ],
+    "414": [
+        {
+            "path": "textures/items/rabbit_foot.png",
+            "ext": "png"
+        }
+    ],
+    "415": [
+        {
+            "path": "textures/items/rabbit_hide.png",
+            "ext": "png"
+        }
+    ],
+    "416": [
+        {
+            "path": "textures/items/saddle.png",
+            "ext": "png"
+        }
+    ],
+    "417": [
+        {
+            "path": "textures/items/iron_horse_armor.png",
+            "ext": "png"
+        }
+    ],
+    "418": [
+        {
+            "path": "textures/items/gold_horse_armor.png",
+            "ext": "png"
+        }
+    ],
+    "419": [
+        {
+            "path": "textures/items/diamond_horse_armor.png",
+            "ext": "png"
+        }
+    ],
+    "420": [
+        {
+            "path": "textures/items/lead.png",
+            "ext": "png"
+        }
+    ],
+    "421": [
+        {
+            "path": "textures/items/name_tag.png",
+            "ext": "png"
+        }
+    ],
+    "422": [
+        {
+            "path": "textures/items/minecart_command_block.png",
+            "ext": "png"
+        }
+    ],
+    "423": [
+        {
+            "path": "textures/items/mutton_raw.png",
+            "ext": "png"
+        }
+    ],
+    "424": [
+        {
+            "path": "textures/items/mutton_cooked.png",
+            "ext": "png"
+        }
+    ],
+    "427": [
+        {
+            "path": "textures/items/door_jungle.png",
+            "ext": "png"
+        }
+    ],
+    "428": [
+        {
+            "path": "textures/items/door_birch.png",
+            "ext": "png"
+        }
+    ],
+    "429": [
+        {
+            "path": "textures/items/door_spruce.png",
+            "ext": "png"
+        }
+    ],
+    "430": [
+        {
+            "path": "textures/items/door_acacia.png",
+            "ext": "png"
+        }
+    ],
+    "431": [
+        {
+            "path": "textures/items/door_dark_oak.png",
+            "ext": "png"
+        }
+    ],
+    "432": [
+        {
+            "path": "textures/items/chorus_fruit.png",
+            "ext": "png"
+        }
+    ],
+    "433": [
+        {
+            "path": "textures/items/chorus_fruit_popped.png",
+            "ext": "png"
+        }
+    ],
+    "437": [
+        {
+            "path": "textures/items/dragons_breath.png",
+            "ext": "png"
+        }
+    ],
+    "438": [
+        {
+            "path": "textures/items/potion_bottle_splash.png",
+            "ext": "png"
+        }
+    ],
+    "441": [
+        {
+            "path": "textures/items/potion_bottle_lingering_waterBreathing.png",
+            "ext": "png"
+        }
+    ],
+    "444": [
+        {
+            "path": "textures/items/elytra.png",
+            "ext": "png"
+        }
+    ],
+    "445": [
+        {
+            "path": "textures/items/shulker_shell.png",
+            "ext": "png"
+        }
+    ],
+    "405": [
+        {
+            "path": "textures/blocks/nether_brick.png",
+            "ext": "png"
+        }
+    ]
+}
